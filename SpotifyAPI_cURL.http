@@ -1,0 +1,1 @@
+curl -X "GET" "https://api.spotify.com/v1/tracks?ids=3n3Ppam7vgaVa1iaRUc9Lp%2C3twNvmDtFQtAd5gMKedhLD&market=US" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer BQBw29LkuhqL7k684_9Jqr2JcE3JA305u-k8r3xUT2E9IRUqYpjNNT0bcvGHClPADN5kWPMIghHA6eJ-WN2qgs9lSFCPIVa9d9FtxSfDeIh1cxJ3vA3EdZ0I7agan8PUa7wN5tPjZQ8SxhM"
